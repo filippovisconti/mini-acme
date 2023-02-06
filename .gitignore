@@ -122,3 +122,37 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.DS_Store
+
+project/src/.vscode/
+
+.vscode/
+
+start_flask.txt
+
+project/log1.txt
+
+project/log2.txt
+
+project/log3.txt
+
+.idea/
+
+project/pebble-config.json
+
+project/src/__pycache__/
+
+project/src/.venv/
+
+project/src/keys/
+
+project/src/utilities/__pycache__/
+
+project/src/test.py
+
+project/src/servers/__pycache__/
+
+
+*.pem

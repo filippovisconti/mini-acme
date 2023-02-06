@@ -1,0 +1,4 @@
+Flask
+cryptography
+pycryptodome
+dnslib
