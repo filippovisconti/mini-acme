@@ -156,3 +156,7 @@ project/src/servers/__pycache__/
 
 
 *.pem
+
+scripts/
+
+*.pdf
